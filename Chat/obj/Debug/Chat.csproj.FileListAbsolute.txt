@@ -1,0 +1,10 @@
+D:\univer\Test_programm\Chat\bin\Debug\Chat.exe.config
+D:\univer\Test_programm\Chat\bin\Debug\Chat.exe
+D:\univer\Test_programm\Chat\bin\Debug\Chat.pdb
+D:\univer\Test_programm\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+D:\univer\Test_programm\Chat\obj\Debug\Chat.Form1.resources
+D:\univer\Test_programm\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\univer\Test_programm\Chat\obj\Debug\Chat.FormServer.Server.resources
+D:\univer\Test_programm\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+D:\univer\Test_programm\Chat\obj\Debug\Chat.exe
+D:\univer\Test_programm\Chat\obj\Debug\Chat.pdb
